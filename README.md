@@ -11,7 +11,7 @@ accessing-Google
 'mac os X' 可以通过快捷键组合 Shift+Command+G 三个组合按键查找文件，并输入 Hosts 文件的所在路径：/etc/hosts
 
 
-打开hosts文件，在文件下方粘贴由github下载下来的text文件的内容，保存即可使用
+打开hosts文件，在文件下方粘贴由github下载下来的txt文件的内容，保存即可使用
 
 
     请使用国际版google. 防止google本地化重定向: 访问一下https://www.google.com/ncr
